@@ -30,7 +30,7 @@ Interactive Prompt Playground provides a user-friendly interface to experiment w
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/interactive-prompt-playground.git
+git clone https://github.com/hemaharshini18/interactive-prompt-playground.git
 cd interactive-prompt-playground
 ```
 
